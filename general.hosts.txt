@@ -77,23 +77,30 @@ wes.df.telemetry.microsoft.comnet
 www.shoppingdealslive.com
 
 
-# MineCraft Featured Servers
+# MineCraft (Bedrock) Featured Servers
 adv.lbsg.net
 arc.lbsg.net
 bp.lbsg.net
 br.lbsg.net
 bw.lbsg.net
+cdn.playhive.com
 cm.lbsg.net
 copx.lbsg.net
 ctf.lbsg.net
+geo.hivebedrock.network
 hivebedrock.network
 lbc.lbsg.net
 mco.cubecraft.net
+mco.lbsg.net
+mco.mineplex.com
 mv.lbsg.net
 oic.lbsg.net
+pebg.mineplex.com
 play.inpvp.net 
 play.lbsg.net
 play.mineplex.com 
+proxy-us-en.lbsg.net
+proxy.lbsg.net
 ps.lbsg.net
 sg.lbsg.net
 sm.lbsg.net
