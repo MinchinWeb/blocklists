@@ -76,7 +76,6 @@ vortex.data.metron.live.com.nsatc.net
 wes.df.telemetry.microsoft.comnet
 www.shoppingdealslive.com
 
-
 # MineCraft (Bedrock) Featured Servers
 adv.lbsg.net
 arc.lbsg.net
@@ -107,3 +106,7 @@ sm.lbsg.net
 sw.lbsg.net
 wi.lbsg.net
 za.lbsg.net
+
+# Ads on Amacon
+# https://www.reddit.com/r/pihole/comments/g6os00/anyone_able_to_block_these_ads_within_amazons/
+d1lxz4vuik53pc.cloudfront.net
