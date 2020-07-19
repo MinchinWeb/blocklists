@@ -77,27 +77,21 @@ wes.df.telemetry.microsoft.comnet
 www.shoppingdealslive.com
 
 # MineCraft (Bedrock) Featured Servers
+mco.cubecraft.net
+
 adv.lbsg.net
 arc.lbsg.net
 bp.lbsg.net
 br.lbsg.net
 bw.lbsg.net
-cdn.playhive.com
 cm.lbsg.net
 copx.lbsg.net
 ctf.lbsg.net
-geo.hivebedrock.network
-hivebedrock.network
 lbc.lbsg.net
-mco.cubecraft.net
 mco.lbsg.net
-mco.mineplex.com
 mv.lbsg.net
 oic.lbsg.net
-pebg.mineplex.com
-play.inpvp.net 
 play.lbsg.net
-play.mineplex.com 
 proxy-us-en.lbsg.net
 proxy.lbsg.net
 ps.lbsg.net
@@ -106,6 +100,21 @@ sm.lbsg.net
 sw.lbsg.net
 wi.lbsg.net
 za.lbsg.net
+
+play.galaxite.net
+
+hivebedrock.network
+ca.hivebedrock.network
+fr.hivebedrock.network
+geo.hivebedrock.network
+sg.hivebedrock.network
+cdn.playhive.com
+
+mco.mineplex.com
+pebg.mineplex.com
+play.mineplex.com 
+
+play.inpvp.net 
 
 # Ads on Amacon
 # https://www.reddit.com/r/pihole/comments/g6os00/anyone_able_to_block_these_ads_within_amazons/
