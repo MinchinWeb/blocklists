@@ -114,7 +114,9 @@ mco.mineplex.com
 pebg.mineplex.com
 play.mineplex.com 
 
-play.inpvp.net 
+play.inpvp.net
+
+server.mineville.org
 
 # Ads on Amacon
 # https://www.reddit.com/r/pihole/comments/g6os00/anyone_able_to_block_these_ads_within_amazons/
