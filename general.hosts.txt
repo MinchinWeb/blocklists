@@ -12,7 +12,7 @@
 # This list is not comprehensive, but rather is designed to file the gaps left
 # by the other blocklists I use.
 
-### Lagacy
+### Legacy
 #
 # These are sites I added before I started really keeping track of why
 0427d7.se
@@ -51,7 +51,7 @@ www.learnthelyrics.com
 # Scam sites that looks like RBC (a Canadian bank)
 rbcexpress.com
 
-# Ads in Aphalt 9 (an Android game)
+# Ads in Asphalt 9 (an Android game)
 as23r23ljf.gameloft.com
 
 # Ads on Read The Docs
@@ -117,6 +117,8 @@ play.mineplex.com
 play.inpvp.net
 
 server.mineville.org
+
+play.pixelparadise.gg 
 
 # Ads on Amacon
 # https://www.reddit.com/r/pihole/comments/g6os00/anyone_able_to_block_these_ads_within_amazons/
